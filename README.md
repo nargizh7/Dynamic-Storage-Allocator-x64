@@ -1,4 +1,4 @@
-# Dynamic-Storage-Allocator-x64
+### Dynamic-Storage-Allocator-x64
 
 This project contains a custom implementation of a dynamic storage allocator. The system provides functional replacements for the standard C memory management routines, including malloc, free, realloc, and calloc. The implementation was engineered to handle 64-bit address spaces. The objective of this implementation was to manage heap memory by optimizing the trade-off between space utilization and throughput. 
 
